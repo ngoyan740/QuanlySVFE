@@ -3,4 +3,9 @@ var LopHoc = function() {
     this.layDanhSachSinhVien = function () { 
         return this.danhSachSinhVien;
     }
+    this.danhSachSinhVien = [];
+    this.layDanhSachSinhVien = function () { 
+        return this.danhSachSinhVien;
+    }
+
 }
