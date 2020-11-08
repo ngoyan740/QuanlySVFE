@@ -1,5 +1,6 @@
 // Thư mục controllers chứa file xử lý ứng với giao diện
 // Thư mục chứa file tạo sự kiện
+// sửa code ở index.js
 
 var mangSinhVien = [];
 var validate = new Validation();
