@@ -4,7 +4,7 @@ var LopHoc = function() {
         return this.danhSachSinhVien;
     }
     this.danhSachSinhVien = [];
-    this.layDanhSachSinhVien = function () { 
+    this.quanLyMonHoc = function () { 
         return this.danhSachSinhVien;
     }
 
